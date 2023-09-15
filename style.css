@@ -9,7 +9,7 @@ body {
 			height: 100vh;
 			border-radius: 25px;
 			background:
-				url('/home/root123/Music/gettogether.jpg');
+				url('gettogether.jpg');
 			background-size: cover;
 		}
 		/* Styling the left floating section */
